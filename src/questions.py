@@ -1,0 +1,1 @@
+EXIT_QUESTIONS = ["What is the primary reason for leaving the organization?","How would you describe your overall experience with the company?","What did you like most about working here?","What could the company improve?","How was your relationship with your manager and team?","Would you recommend this company to others? Why or why not?"]
